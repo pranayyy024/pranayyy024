@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 🎓 Computer Engineering student passionate about technology and problem-solving.
 
 💻 Aspiring Software Engineer interested in Full-Stack Development, AI/ML, and Software Engineering.
@@ -24,8 +24,7 @@
 
 
 
----
-[![](https://komarev.com/ghpvc/?username=pranayyy024&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
