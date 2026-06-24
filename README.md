@@ -1,10 +1,16 @@
 # 💫 About Me:
 🎓 Computer Engineering student passionate about technology and problem-solving.
+
 💻 Aspiring Software Engineer interested in Full-Stack Development, AI/ML, and Software Engineering.
+
 🚀 Building projects and continuously improving my development skills.
+
 📚 Strengthening my problem-solving abilities through Data Structures & Algorithms.
-⚙️ Exploring backend development, system design, cloud technologies, Linux, and Docker.
+
+⚙️ Exploring backend development, system design, cloud technologies, and Docker.
+
 🛠️ Passionate about turning ideas into real-world applications with clean and efficient code.
+
 🤝 Open to collaborations, internships, and opportunities to grow as a developer.
 
 
